@@ -204,8 +204,7 @@
                   "origin": "https://v.youku.com/v_show/id_XNDM2OTkzMDE1Ng==.html",
                   "frame": "https://player.youku.com/embed/XNDM2OTkzMDE1Ng==",
                   "from": "youku",
-                  "height": 498,
-                  "width": 510,
+                  "size": ["498", "510"],
                   "sub": [
                     {
                       "value": "上海市松江区九亭中学",
