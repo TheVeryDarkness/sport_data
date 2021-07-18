@@ -214,19 +214,19 @@
                     {
                       "value": "上海市工商职业技术学院",
                       "range": ["1398", "1747"],
-                      "score": 8.59,
+                      "score": "8.59",
                       "sub": []
                     },
                     {
                       "value": "上海市行知实验中学",
                       "range": ["1756", "2158"],
-                      "score": 8.25,
+                      "score": "8.25",
                       "sub": []
                     },
                     {
                       "value": "上海市嘉定民办斌心学校",
                       "range": ["2168", "2723"],
-                      "score": 8.71
+                      "score": "8.71"
                     }
                   ]
                 }
@@ -242,10 +242,7 @@
                   "frame": "https://player.bilibili.com/player.html?aid=66976421&bvid=BV1f4411k7dd&cid=116141312&page=1",
                   "from": "bilibili",
                   "comment": [
-                    {
-                      "name": "不愿透露姓名的某开发者",
-                      "content": "彩排的时候头掉了嘎嘎嘎"
-                    }
+                    ["不愿透露姓名的某开发者", "彩排的时候头掉了嘎嘎嘎"]
                   ],
                   "sub": []
                 }
